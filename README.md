@@ -8,7 +8,7 @@
 <div align="center">
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-  <h2 style="margin-: 0;" align='center' >👨‍💻 About Me</h2>
+  <h2 style="margin-: 0;" align='left' >👨‍💻 About Me</h2>
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 8px 16px; text-align: center;">👨‍💻</td>
