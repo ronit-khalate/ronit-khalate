@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">📚</td>
-      <td style="padding: 8px 16px; text-align: left;">Learning everything about Android Development 😅</td>
+      <td style="padding: 8px 16px; text-align: left;">Learning everything about Mobile Application Development 😅</td>
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">💪🏼</td>
