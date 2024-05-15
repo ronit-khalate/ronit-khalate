@@ -35,11 +35,11 @@
 <Br>
   
 <div style="display: flex; justify-content: center; margin:4px">
-  <a style="margin-right:4px" href="https://github.com/PratikHGhadge/MS-Industrie-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=MS-Industrie-Management-System" alt="MsIndustries" />
+  <a style="margin-right:4px" href="https://github.com/ronit-khalate/Real-Time-Feedback-From-Facial-Emotion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronit-khalate&repo=Real-Time-Feedback-From-Facial-Emotion" alt="Real-Time-Feedback-From-Facial-Emotion" />
   </a>
-  <a style="margin-left:4px " href="https://github.com/PratikHGhadge/Twitter-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratikHGhadge&repo=Twitter-Clone" alt="Twitter-Clone" />
+  <a style="margin-left:4px " href="https://github.com/ronit-khalate/Rep-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronit-khalate&repo=Rep-Tracker" alt="Rep-Tracker" />
   </a>
  
 </div>
@@ -57,27 +57,15 @@
   <a href="https://developer.android.com/develop/ui/compose" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="kotlin multiplatfrom bg.png" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="kotlin multiplatfrom bg.png" alt="html5" width="40" height="40"/> </a>  
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://reactrouter.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Router DOM" width="40" height="40"/></a>
-  <a href="https://redux-toolkit.js.org" target="_blank"><img src="https://redux-toolkit.js.org/img/redux.svg" alt="React Redux Toolkit" width="40" height="40"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://jwt.io" target="_blank"><img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/></a>
-  <a href="https://wordpress.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a><!-- Visual Studio Code (VS Code) -->
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/</a><!-- IntelliJ IDEA -->
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-</a><!-- Jupyter Notebook -->
-  <a href="https://jupyter.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/>
-</a><!-- MongoDB Compass -->
-  <a href="https://www.mongodb.com/products/compass" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Compass" width="40" height="40"/>
-</a>
+  <a href="https://jupyter.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/products/compass" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Compass" width="40" height="40"/></a>
+
+  
+
+ 
  </p>
 
 </div >
@@ -86,12 +74,7 @@
 <h2 style="margin-: 0;" align='center' ><img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Lets connect through  </h2>
 
 <p align="center">
-
-[//]: # (<a href="https://hashnode.com/@CodeWithPratik"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>)
-<a href="https://twitter.com/PratikHG2001"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></a>
-<a href="https://www.linkedin.com/in/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://github.com/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
-<a href="https://www.instagram.com/ronit5k/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/KhalateRonit"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></a><a href="https://www.linkedin.com/in/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://github.com/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a href="https://www.instagram.com/ronit5k/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
 </div>
 
