@@ -8,7 +8,7 @@
 <div align="center">
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-  <h2 style="margin-: 0;" align='left' >👨‍💻 About Me</h2>
+  <h2 style="margin-: 0;" align='center' >👨‍💻 About Me</h2>
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 8px 16px; text-align: center;">👨‍💻</td>
@@ -83,10 +83,15 @@
 </div >
 <div>
 <hr>
-<h2 style="margin-: 0;" align='left' ><img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Lets connect through  </h2>
+<h2 style="margin-: 0;" align='center' ><img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Lets connect through  </h2>
 
 <p align="center">
-<a href="https://twitter.com/PratikHG2001"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></a><a href="https://www.linkedin.com/in/pratik-ghadge-7b5056210"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://hashnode.com/@CodeWithPratik"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a><a href="https://github.com/PratikHGhadge"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a href="https://www.instagram.com/pratik_ghadge77/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+
+[//]: # (<a href="https://hashnode.com/@CodeWithPratik"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>)
+<a href="https://twitter.com/PratikHG2001"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></a>
+<a href="https://www.linkedin.com/in/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://github.com/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a href="https://www.instagram.com/ronit5k/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
 </div>
 
@@ -96,11 +101,11 @@
  <h2 style="margin-: 0;" align='left' > 🤖 Github Stats  </h2>
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PratikHGhadge&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ronit-khalate&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikHGhadge&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit-khalate&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
 <br />
