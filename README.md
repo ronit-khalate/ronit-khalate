@@ -1,4 +1,4 @@
-![Pratik](https://github.com/PratikHGhadge/PratikHGhadge/assets/93422248/c337ab43-66ac-4757-94e3-7b92e4ee40ae)
+![Header](profile-header.png)
 
  
 <div align="center">
