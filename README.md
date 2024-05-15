@@ -16,11 +16,11 @@
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">📚</td>
-      <td style="padding: 8px 16px; text-align: left;">Learning everything about Mobile Application Development 😅</td>
+      <td style="padding: 8px 16px; text-align: left;">Learning everything about Android Development 😅</td>
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">💪🏼</td>
-      <td style="padding: 8px 16px; text-align: left;">Future Goals: Learn more technologies - And Become Android Developer.</td>
+      <td style="padding: 8px 16px; text-align: left;">Future Goals: Learn more technologies - And Become Mobile Application Developer.</td>
     </tr>
     <tr>
       <td style="padding: 8px 16px; text-align: center;">💬</td>
