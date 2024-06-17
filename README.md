@@ -74,7 +74,7 @@
 <h2 style="margin-: 0;" align='center' ><img align='center' src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Lets connect through  </h2>
 
 <p align="center">
-<a href="https://twitter.com/KhalateRonit"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></a><a href="https://www.linkedin.com/in/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://github.com/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a href="https://www.instagram.com/ronit5k/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+<a href="https://x.com/ronit_khalate"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a></a><a href="https://www.linkedin.com/in/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="https://github.com/ronit-khalate"><img src="https://img.icons8.com/color/48/000000/github.png"/></a><a href="https://www.instagram.com/ronit5k/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
 </div>
 
