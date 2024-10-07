@@ -35,7 +35,7 @@
 <Br>
   
 <div style="display: flex; justify-content: center; margin:4px">
-  <a style="margin-right:4px" href="https://github.com/ronit-khalate/Real-Time-Feedback-From-Facial-Emotion">
+  <a style="margin-right:4px" href="https://github.com/ronit-khalate/Lift">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ronit-khalate&repo=Real-Time-Feedback-From-Facial-Emotion" alt="Real-Time-Feedback-From-Facial-Emotion" />
   </a>
   <a style="margin-left:4px " href="https://github.com/ronit-khalate/Rep-Tracker">
